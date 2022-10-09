@@ -54,6 +54,9 @@ Inicie o servidor
 
 
 ## Sugestoes de request para teste
+```bash
 curl GET http://localhost:8080/review/1?text=problemas
-
+```
+```bash
 curl GET http://localhost:8080/review/1?text=bom
+```
